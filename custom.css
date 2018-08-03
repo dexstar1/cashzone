@@ -1,0 +1,45 @@
+@media(min-width:720px){
+    .custom-navbar {
+        justify-content: flex-end;
+        -webkit-justify-content: flex-end;
+        padding-right: 12rem !important;
+        width: auto;
+    }
+    .cid-qZyT2pYxE4 .navbar {
+        position: absolute;
+        top: 573px;
+    }
+    .cid-qZzxQ3r69R {
+    padding-top: 120px !important;
+}
+    .cid-qZyT2pYxE4 .navbar-toggleable-sm .navbar-collapse .navbar-nav .nav-item {
+    padding: 0px 15px;
+}    
+    
+    .cid-qZyT2pYxE4 .navbar2 {
+        position: fixed !important;
+        top: 0 !important;
+    }
+}
+
+.cid-qZxXv2eTtM {
+    height: 88vh !important;
+}
+
+section#header1-0{
+    z-index: 0;
+    position: relative;
+    background-image: url(file:///C:/Users/dexstar/Documents/kashloan/assets/images/mbr-1-1920x1280.jpg) !important;
+    background-attachment: fixed !important;
+    background-size: contain !important;
+    background-color: #080607 !important;
+}
+
+.row.justify-content-md-center {
+    padding-top: 55px !important;
+}
+
+    .cid-qZyT2pYxE4 .navbar2 {
+        position: fixed !important;
+        top: 0 !important;
+    }
